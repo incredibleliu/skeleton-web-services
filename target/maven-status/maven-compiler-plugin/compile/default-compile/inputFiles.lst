@@ -1,0 +1,10 @@
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\service\GreetingServiceBean.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\web\api\GreetingController.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\repository\GreetingRepository.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\model\Greeting.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\service\EmailService.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\Application.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\util\AsyncResponse.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\batch\GreetingBatchBean.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\service\GreetingService.java
+E:\workspace\skeleton-web-services\src\main\java\org\example\ws\service\EmailServiceBean.java

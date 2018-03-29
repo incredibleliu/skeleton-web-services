@@ -1,0 +1,10 @@
+org\example\ws\service\GreetingService.class
+org\example\Application.class
+org\example\ws\model\Greeting.class
+org\example\ws\repository\GreetingRepository.class
+org\example\ws\service\EmailServiceBean.class
+org\example\ws\batch\GreetingBatchBean.class
+org\example\ws\util\AsyncResponse.class
+org\example\ws\service\EmailService.class
+org\example\ws\web\api\GreetingController.class
+org\example\ws\service\GreetingServiceBean.class
